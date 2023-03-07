@@ -9,3 +9,9 @@ Music Classification V1.ipynb file is the updated version of fuse-machines-music
 Also the dataset is extracted from kaggle:
 
 https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+
+
+You can also check on kaggle:
+https://www.kaggle.com/code/shirshaka/fuse-machines-music-classification
+https://www.kaggle.com/code/shirshaka/music-classification-v1
